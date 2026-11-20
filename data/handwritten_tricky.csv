@@ -1,0 +1,11 @@
+text,action,unit,to
+"uh take forty four seventy one, no, forty four seventeen to door three",move,4417,door_03
+"4471 to door 6 and then, actually, leave it",,,
+"move seven one oh four over to dock eight",move,7104,door_08
+"can you get 5032 off door 4 and into staging",move,5032,staging
+"two two six nine, door one, cheers",move,2269,door_01
+"where's that six one eight eight gone",status,6188,
+"send the 1146 to door nine",move,1146,
+"park thirty three sixty four up the back",park,3364,parking
+"let the eight four two oh out",release,8420,
+"door seven for fifty five twenty seven",move,5527,door_07

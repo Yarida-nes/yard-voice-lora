@@ -1,0 +1,7 @@
+pydantic>=2
+
+# only for the scripts in optional/
+ollama>=0.5
+jiwer>=3
+edge-tts>=6
+faster-whisper>=1

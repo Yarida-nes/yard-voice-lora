@@ -1,0 +1,100 @@
+{"text": "okay, can you put eighty-four ninety-one on door 3 please", "expected": {"action": "move", "unit": "8491", "to": "door_03"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0000"}
+{"text": "right, what's the status of sixty-one eighty-eight thanks", "expected": {"action": "status", "unit": "6188", "to": null}, "decision": "ACT", "kind": "status", "source": "generated", "id": "test-0001"}
+{"text": "bring 3851 up to door 4 mate", "expected": {"action": "move", "unit": "3851", "to": "door_04"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0002"}
+{"text": "um, send 2580 to dock door two when you can", "expected": {"action": "move", "unit": "2580", "to": "door_02"}, "decision": "ASK_AGAIN", "kind": "move_busy", "source": "generated", "id": "test-0003"}
+{"text": "release 1146", "expected": {"action": "release", "unit": "1146", "to": null}, "decision": "READ_BACK", "kind": "release", "source": "generated", "id": "test-0004"}
+{"text": "take it over there", "expected": {"action": null, "unit": null, "to": null}, "decision": "ASK_AGAIN", "kind": "unclear", "source": "generated", "id": "test-0005"}
+{"text": "um, nine zero seven one can go to parking", "expected": {"action": "park", "unit": "9071", "to": "parking"}, "decision": "ACT", "kind": "park", "source": "generated", "id": "test-0006"}
+{"text": "put nine zero seven one in parking", "expected": {"action": "park", "unit": "9071", "to": "parking"}, "decision": "ACT", "kind": "park", "source": "generated", "id": "test-0007"}
+{"text": "shift 3815 over to door three thanks", "expected": {"action": "move", "unit": "3815", "to": "door_03"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0008"}
+{"text": "uh, take three three six four to dock door 2", "expected": {"action": "move", "unit": "3364", "to": "door_02"}, "decision": "ASK_AGAIN", "kind": "move_busy", "source": "generated", "id": "test-0009"}
+{"text": "yeah, park three three six four", "expected": {"action": "park", "unit": "3364", "to": "parking"}, "decision": "ACT", "kind": "park", "source": "generated", "id": "test-0010"}
+{"text": "uh, 4892 to dock four", "expected": {"action": "move", "unit": "4892", "to": "door_04"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0011"}
+{"text": "6188 needs moving please", "expected": {"action": "move", "unit": "6188", "to": null}, "decision": "ASK_AGAIN", "kind": "move_no_place", "source": "generated", "id": "test-0012"}
+{"text": "uh, send 5527 to dock 4 please", "expected": {"action": "move", "unit": "5527", "to": "door_04"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0013"}
+{"text": "take 5032, no, scratch that, fifty-five twenty-seven to door seven", "expected": {"action": "move", "unit": "5527", "to": "door_07"}, "decision": "ACT", "kind": "correction", "source": "generated", "id": "test-0014"}
+{"text": "nine five nine zero to door six", "expected": {"action": "move", "unit": "9590", "to": "door_06"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0015"}
+{"text": "um, move 6188 to dock door 3 please", "expected": {"action": "move", "unit": "6188", "to": "door_03"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0016"}
+{"text": "send 6603 to door 8", "expected": {"action": "move", "unit": "6603", "to": "door_08"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0017"}
+{"text": "yeah, 5527 to door six", "expected": {"action": "move", "unit": "5527", "to": "door_06"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0018"}
+{"text": "okay, send six nine two seven to door 7 thanks", "expected": {"action": "move", "unit": "6927", "to": "door_07"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0019"}
+{"text": "move three three six four, no, scratch that, six six zero three to door eight", "expected": {"action": "move", "unit": "6603", "to": "door_08"}, "decision": "ACT", "kind": "correction", "source": "generated", "id": "test-0020"}
+{"text": "can you shift 6188 when you can", "expected": {"action": "move", "unit": "6188", "to": null}, "decision": "ASK_AGAIN", "kind": "move_no_place", "source": "generated", "id": "test-0021"}
+{"text": "yeah, six one eight eight to dock door 4", "expected": {"action": "move", "unit": "6188", "to": "door_04"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0022"}
+{"text": "where's fifty-five twenty-seven", "expected": {"action": "status", "unit": "5527", "to": null}, "decision": "ACT", "kind": "status", "source": "generated", "id": "test-0023"}
+{"text": "shift five four six five over to dock three please", "expected": {"action": "move", "unit": "5465", "to": "door_03"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0024"}
+{"text": "move 5527 please", "expected": {"action": "move", "unit": "5527", "to": null}, "decision": "ASK_AGAIN", "kind": "move_no_place", "source": "generated", "id": "test-0025"}
+{"text": "put 3364 in the parking area thanks", "expected": {"action": "park", "unit": "3364", "to": "parking"}, "decision": "ACT", "kind": "park", "source": "generated", "id": "test-0026"}
+{"text": "where's five zero three two when you can", "expected": {"action": "status", "unit": "5032", "to": null}, "decision": "ACT", "kind": "status", "source": "generated", "id": "test-0027"}
+{"text": "has 4417 been moved mate", "expected": {"action": "status", "unit": "4417", "to": null}, "decision": "ACT", "kind": "status", "source": "generated", "id": "test-0028"}
+{"text": "right, drop 6603 in parking when you can", "expected": {"action": "park", "unit": "6603", "to": "parking"}, "decision": "ACT", "kind": "park", "source": "generated", "id": "test-0029"}
+{"text": "um, put fifty-five twenty-seven in the park-up area", "expected": {"action": "park", "unit": "5527", "to": "parking"}, "decision": "ACT", "kind": "park", "source": "generated", "id": "test-0030"}
+{"text": "shift 4471 over to door seven thanks", "expected": {"action": "move", "unit": "4471", "to": "door_07"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0031"}
+{"text": "right, can you shift three three six four", "expected": {"action": "move", "unit": "3364", "to": null}, "decision": "ASK_AGAIN", "kind": "move_no_place", "source": "generated", "id": "test-0032"}
+{"text": "bring 2269 up to dock 8 thanks", "expected": {"action": "move", "unit": "2269", "to": "door_08"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0033"}
+{"text": "where is 4892 at", "expected": {"action": "status", "unit": "4892", "to": null}, "decision": "ACT", "kind": "status", "source": "generated", "id": "test-0034"}
+{"text": "yeah, bring 3290 up to dock four thanks", "expected": {"action": "move", "unit": "3290", "to": "door_04"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0035"}
+{"text": "yeah, what's the status of 2296 thanks", "expected": {"action": "status", "unit": "2296", "to": null}, "decision": "ACT", "kind": "status", "source": "generated", "id": "test-0036"}
+{"text": "take 6603 to dock two", "expected": {"action": "move", "unit": "6603", "to": "door_02"}, "decision": "ASK_AGAIN", "kind": "move_busy", "source": "generated", "id": "test-0037"}
+{"text": "can you shift seventy-one forty mate", "expected": {"action": "move", "unit": "7140", "to": null}, "decision": "ASK_AGAIN", "kind": "move_no_place", "source": "generated", "id": "test-0038"}
+{"text": "okay, take 5032 over mate", "expected": {"action": "move", "unit": "5032", "to": null}, "decision": "ASK_AGAIN", "kind": "move_no_place", "source": "generated", "id": "test-0039"}
+{"text": "5757 to door four", "expected": {"action": "move", "unit": "5757", "to": "door_04"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0040"}
+{"text": "yeah, take nine one four seven to door six", "expected": {"action": "move", "unit": "9147", "to": "door_06"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0041"}
+{"text": "right, three three six four to door 6", "expected": {"action": "move", "unit": "3364", "to": "door_06"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0042"}
+{"text": "right, take thirty-eight fifty-one to dock door four please", "expected": {"action": "move", "unit": "3851", "to": "door_04"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0043"}
+{"text": "take thirty-eight fifteen, no wait, two two six nine to door eight", "expected": {"action": "move", "unit": "2269", "to": "door_08"}, "decision": "READ_BACK", "kind": "correction", "source": "generated", "id": "test-0044"}
+{"text": "right, two two nine six to dock four thanks", "expected": {"action": "move", "unit": "2296", "to": "door_04"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0045"}
+{"text": "send 6439 to door one please", "expected": {"action": "move", "unit": "6439", "to": "door_01"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0046"}
+{"text": "okay, can you put one four three four on dock door 7 mate", "expected": {"action": "move", "unit": "1434", "to": "door_07"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0047"}
+{"text": "okay, twenty-two ninety-six to dock one", "expected": {"action": "move", "unit": "2296", "to": "door_01"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0048"}
+{"text": "um, can you put fifty thirty-two on door seven thanks", "expected": {"action": "move", "unit": "5032", "to": "door_07"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0049"}
+{"text": "right, shift 7140 over to dock four", "expected": {"action": "move", "unit": "7140", "to": "door_04"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0050"}
+{"text": "right, 1224, door 7", "expected": {"action": "move", "unit": "1224", "to": "door_07"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0051"}
+{"text": "right, park one one four six thanks", "expected": {"action": "park", "unit": "1146", "to": "parking"}, "decision": "ACT", "kind": "park", "source": "generated", "id": "test-0052"}
+{"text": "send 6603 to dock three thanks", "expected": {"action": "move", "unit": "6603", "to": "door_03"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0053"}
+{"text": "can you put three eight five one on door 3", "expected": {"action": "move", "unit": "3851", "to": "door_03"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0054"}
+{"text": "move 8420, no, scratch that, six six zero three to door seven", "expected": {"action": "move", "unit": "6603", "to": "door_07"}, "decision": "ACT", "kind": "correction", "source": "generated", "id": "test-0055"}
+{"text": "take 5527, I mean, 9071 to dock 7", "expected": {"action": "move", "unit": "9071", "to": "door_07"}, "decision": "ACT", "kind": "correction", "source": "generated", "id": "test-0056"}
+{"text": "yeah, 3507 to door four thanks", "expected": {"action": "move", "unit": "3507", "to": "door_04"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0057"}
+{"text": "move three eight one five to door eight please", "expected": {"action": "move", "unit": "3815", "to": "door_08"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0058"}
+{"text": "can you put 4892 on dock door 7", "expected": {"action": "move", "unit": "4892", "to": "door_07"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0059"}
+{"text": "take forty-four seventy-one, no, scratch that, twenty-two sixty-nine to dock one", "expected": {"action": "move", "unit": "2269", "to": "door_01"}, "decision": "READ_BACK", "kind": "correction", "source": "generated", "id": "test-0060"}
+{"text": "yeah, 2580 can leave now", "expected": {"action": "release", "unit": "2580", "to": null}, "decision": "READ_BACK", "kind": "release", "source": "generated", "id": "test-0061"}
+{"text": "okay, 6188 to dock door 8 when you can", "expected": {"action": "move", "unit": "6188", "to": "door_08"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0062"}
+{"text": "okay, move two two two nine to dock door three", "expected": {"action": "move", "unit": "2229", "to": "door_03"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0063"}
+{"text": "yeah, can you put 4471 on door one", "expected": {"action": "move", "unit": "4471", "to": "door_01"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0064"}
+{"text": "yeah, 3364, door 4 thanks", "expected": {"action": "move", "unit": "3364", "to": "door_04"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0065"}
+{"text": "right, bring 2296 up to dock 6", "expected": {"action": "move", "unit": "2296", "to": "door_06"}, "decision": "READ_BACK", "kind": "move_lookalike", "source": "generated", "id": "test-0066"}
+{"text": "um, take six six zero three to door seven please", "expected": {"action": "move", "unit": "6603", "to": "door_07"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0067"}
+{"text": "right, 1146 to door seven mate", "expected": {"action": "move", "unit": "1146", "to": "door_07"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0068"}
+{"text": "okay, send one nine five seven to door eight", "expected": {"action": "move", "unit": "1957", "to": "door_08"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0069"}
+{"text": "move that trailer", "expected": {"action": null, "unit": null, "to": null}, "decision": "ASK_AGAIN", "kind": "unclear", "source": "generated", "id": "test-0070"}
+{"text": "yeah, take 2296 over", "expected": {"action": "move", "unit": "2296", "to": null}, "decision": "ASK_AGAIN", "kind": "move_no_place", "source": "generated", "id": "test-0071"}
+{"text": "where is seven one four zero at", "expected": {"action": "status", "unit": "7140", "to": null}, "decision": "ACT", "kind": "status", "source": "generated", "id": "test-0072"}
+{"text": "yeah, 1957, dock door four mate", "expected": {"action": "move", "unit": "1957", "to": "door_04"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0073"}
+{"text": "yeah, has forty-eight ninety-two been moved", "expected": {"action": "status", "unit": "4892", "to": null}, "decision": "ACT", "kind": "status", "source": "generated", "id": "test-0074"}
+{"text": "take five four eight zero to dock four", "expected": {"action": "move", "unit": "5480", "to": "door_04"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0075"}
+{"text": "yeah, release sixty-six oh three when you can", "expected": {"action": "release", "unit": "6603", "to": null}, "decision": "READ_BACK", "kind": "release", "source": "generated", "id": "test-0076"}
+{"text": "move two two six nine, sorry, 4471 to dock seven", "expected": {"action": "move", "unit": "4471", "to": "door_07"}, "decision": "READ_BACK", "kind": "correction", "source": "generated", "id": "test-0077"}
+{"text": "yeah, thirty-three sixty-four, dock 3 thanks", "expected": {"action": "move", "unit": "3364", "to": "door_03"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0078"}
+{"text": "send two five eight zero to dock door one mate", "expected": {"action": "move", "unit": "2580", "to": "door_01"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0079"}
+{"text": "take 3851, no, scratch that, two two six nine to dock door 7", "expected": {"action": "move", "unit": "2269", "to": "door_07"}, "decision": "READ_BACK", "kind": "correction", "source": "generated", "id": "test-0080"}
+{"text": "okay, six two six nine, dock four", "expected": {"action": "move", "unit": "6269", "to": "door_04"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0081"}
+{"text": "four eight nine two can leave now please", "expected": {"action": "release", "unit": "4892", "to": null}, "decision": "READ_BACK", "kind": "release", "source": "generated", "id": "test-0082"}
+{"text": "uh, take 5450 to door 3 when you can", "expected": {"action": "move", "unit": "5450", "to": "door_03"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0083"}
+{"text": "move sixty-one eighty-eight to dock door 7", "expected": {"action": "move", "unit": "6188", "to": "door_07"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0084"}
+{"text": "where's one nine five seven", "expected": {"action": "status", "unit": "1957", "to": null}, "decision": "ACT", "kind": "status", "source": "generated", "id": "test-0085"}
+{"text": "take 3815, no, scratch that, 2269 to door six", "expected": {"action": "move", "unit": "2269", "to": "door_06"}, "decision": "READ_BACK", "kind": "correction", "source": "generated", "id": "test-0086"}
+{"text": "yeah, six five nine zero, dock door 1 when you can", "expected": {"action": "move", "unit": "6590", "to": "door_01"}, "decision": "ASK_AGAIN", "kind": "move_unknown", "source": "generated", "id": "test-0087"}
+{"text": "okay, can you put sixty-six oh three on door four please", "expected": {"action": "move", "unit": "6603", "to": "door_04"}, "decision": "ACT", "kind": "move_ok", "source": "generated", "id": "test-0088"}
+{"text": "yeah, where's 9071 mate", "expected": {"action": "status", "unit": "9071", "to": null}, "decision": "ACT", "kind": "status", "source": "generated", "id": "test-0089"}
+{"text": "uh take forty four seventy one, no, forty four seventeen to door three", "expected": {"action": "move", "unit": "4417", "to": "door_03"}, "decision": "READ_BACK", "kind": "handwritten", "source": "handwritten", "id": "test-0090"}
+{"text": "4471 to door 6 and then, actually, leave it", "expected": {"action": null, "unit": null, "to": null}, "decision": "ASK_AGAIN", "kind": "handwritten", "source": "handwritten", "id": "test-0091"}
+{"text": "move seven one oh four over to dock eight", "expected": {"action": "move", "unit": "7104", "to": "door_08"}, "decision": "READ_BACK", "kind": "handwritten", "source": "handwritten", "id": "test-0092"}
+{"text": "can you get 5032 off door 4 and into staging", "expected": {"action": "move", "unit": "5032", "to": "staging"}, "decision": "ACT", "kind": "handwritten", "source": "handwritten", "id": "test-0093"}
+{"text": "two two six nine, door one, cheers", "expected": {"action": "move", "unit": "2269", "to": "door_01"}, "decision": "READ_BACK", "kind": "handwritten", "source": "handwritten", "id": "test-0094"}
+{"text": "where's that six one eight eight gone", "expected": {"action": "status", "unit": "6188", "to": null}, "decision": "ACT", "kind": "handwritten", "source": "handwritten", "id": "test-0095"}
+{"text": "send the 1146 to door nine", "expected": {"action": "move", "unit": "1146", "to": null}, "decision": "ASK_AGAIN", "kind": "handwritten", "source": "handwritten", "id": "test-0096"}
+{"text": "park thirty three sixty four up the back", "expected": {"action": "park", "unit": "3364", "to": "parking"}, "decision": "ACT", "kind": "handwritten", "source": "handwritten", "id": "test-0097"}
+{"text": "let the eight four two oh out", "expected": {"action": "release", "unit": "8420", "to": null}, "decision": "READ_BACK", "kind": "handwritten", "source": "handwritten", "id": "test-0098"}
+{"text": "door seven for fifty five twenty seven", "expected": {"action": "move", "unit": "5527", "to": "door_07"}, "decision": "ACT", "kind": "handwritten", "source": "handwritten", "id": "test-0099"}
