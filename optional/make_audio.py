@@ -20,7 +20,14 @@ VOICES = ["en-AU-NatashaNeural", "en-AU-WilliamNeural", "en-GB-RyanNeural", "en-
 
 
 async def speak(text: str, voice: str, path: Path) -> None:
-    await edge_tts.Communicate(text, voice).save(str(path))
+    for attempt in range(5):  # the online voice service sometimes drops a request
+        try:
+            await edge_tts.Communicate(text, voice).save(str(path))
+            return
+        except edge_tts.exceptions.NoAudioReceived:
+            if attempt == 4:
+                raise
+            await asyncio.sleep(2 * (attempt + 1))
 
 
 def add_noise(clean: Path, noise: Path, out: Path, volume: float) -> None:

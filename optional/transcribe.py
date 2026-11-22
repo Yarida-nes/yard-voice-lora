@@ -13,8 +13,10 @@ from faster_whisper import WhisperModel
 
 import sys
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from rules import YARD
+from add_noise import load as load_audio  # decodes to 16 kHz samples (faster-whisper's own loader fails with av 19)
 
 ROOT = Path(__file__).parent.parent
 
@@ -31,7 +33,7 @@ def main() -> None:
 
     out = []
     for c in clips:
-        segments, _ = whisper.transcribe(str(ROOT / "audio" / c["audio"]), language="en", initial_prompt=hint)
+        segments, _ = whisper.transcribe(load_audio(ROOT / "audio" / c["audio"]), language="en", initial_prompt=hint)
         heard = " ".join(s.text.strip() for s in segments).strip()
         out.append({**c, "text": heard, "original_text": c["text"]})
         print(f"{c['noise']:>10}  said: {c['text']}\n{'':>10}  heard: {heard}")

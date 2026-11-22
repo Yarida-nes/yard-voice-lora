@@ -1,0 +1,29 @@
+{
+  "device": "NVIDIA GeForce RTX 3050 6GB Laptop GPU",
+  "training_seconds": 139.8,
+  "fit_report": {
+    "decision": {
+      "rows": 210,
+      "skipped_rows": 0,
+      "starts_with": "a head fitted on the starting set",
+      "cross_validated_accuracy": 0.624,
+      "vega_alone_accuracy": 0.357
+    }
+  },
+  "before": {
+    "right": 38,
+    "unsafe": 27,
+    "generated": 35,
+    "handwritten": 3,
+    "median_s": 0.1559,
+    "max_s": 1.14
+  },
+  "after": {
+    "right": 62,
+    "unsafe": 26,
+    "generated": 57,
+    "handwritten": 5,
+    "median_s": 0.2951,
+    "max_s": 1.0975
+  }
+}

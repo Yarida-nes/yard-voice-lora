@@ -1,0 +1,100 @@
+{"id": "test-0000", "text": "okay, can you put eighty-four ninety-one on door 3 please", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0001", "text": "right, what's the status of sixty-one eighty-eight thanks", "source": "generated", "kind": "status", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0002", "text": "bring 3851 up to door 4 mate", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0003", "text": "um, send 2580 to dock door two when you can", "source": "generated", "kind": "move_busy", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "ASK_AGAIN"}
+{"id": "test-0004", "text": "release 1146", "source": "generated", "kind": "release", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0005", "text": "take it over there", "source": "generated", "kind": "unclear", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0006", "text": "um, nine zero seven one can go to parking", "source": "generated", "kind": "park", "decision": "ACT", "laya_before": "READ_BACK", "laya_after": "ACT"}
+{"id": "test-0007", "text": "put nine zero seven one in parking", "source": "generated", "kind": "park", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0008", "text": "shift 3815 over to door three thanks", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0009", "text": "uh, take three three six four to dock door 2", "source": "generated", "kind": "move_busy", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0010", "text": "yeah, park three three six four", "source": "generated", "kind": "park", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0011", "text": "uh, 4892 to dock four", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0012", "text": "6188 needs moving please", "source": "generated", "kind": "move_no_place", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0013", "text": "uh, send 5527 to dock 4 please", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ASK_AGAIN"}
+{"id": "test-0014", "text": "take 5032, no, scratch that, fifty-five twenty-seven to door seven", "source": "generated", "kind": "correction", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0015", "text": "nine five nine zero to door six", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "READ_BACK", "laya_after": "ACT"}
+{"id": "test-0016", "text": "um, move 6188 to dock door 3 please", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0017", "text": "send 6603 to door 8", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0018", "text": "yeah, 5527 to door six", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0019", "text": "okay, send six nine two seven to door 7 thanks", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0020", "text": "move three three six four, no, scratch that, six six zero three to door eight", "source": "generated", "kind": "correction", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0021", "text": "can you shift 6188 when you can", "source": "generated", "kind": "move_no_place", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0022", "text": "yeah, six one eight eight to dock door 4", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0023", "text": "where's fifty-five twenty-seven", "source": "generated", "kind": "status", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0024", "text": "shift five four six five over to dock three please", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "ASK_AGAIN"}
+{"id": "test-0025", "text": "move 5527 please", "source": "generated", "kind": "move_no_place", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0026", "text": "put 3364 in the parking area thanks", "source": "generated", "kind": "park", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0027", "text": "where's five zero three two when you can", "source": "generated", "kind": "status", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0028", "text": "has 4417 been moved mate", "source": "generated", "kind": "status", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0029", "text": "right, drop 6603 in parking when you can", "source": "generated", "kind": "park", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0030", "text": "um, put fifty-five twenty-seven in the park-up area", "source": "generated", "kind": "park", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0031", "text": "shift 4471 over to door seven thanks", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0032", "text": "right, can you shift three three six four", "source": "generated", "kind": "move_no_place", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "ASK_AGAIN"}
+{"id": "test-0033", "text": "bring 2269 up to dock 8 thanks", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ACT", "laya_after": "READ_BACK"}
+{"id": "test-0034", "text": "where is 4892 at", "source": "generated", "kind": "status", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0035", "text": "yeah, bring 3290 up to dock four thanks", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0036", "text": "yeah, what's the status of 2296 thanks", "source": "generated", "kind": "status", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0037", "text": "take 6603 to dock two", "source": "generated", "kind": "move_busy", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0038", "text": "can you shift seventy-one forty mate", "source": "generated", "kind": "move_no_place", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "ASK_AGAIN"}
+{"id": "test-0039", "text": "okay, take 5032 over mate", "source": "generated", "kind": "move_no_place", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0040", "text": "5757 to door four", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0041", "text": "yeah, take nine one four seven to door six", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0042", "text": "right, three three six four to door 6", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0043", "text": "right, take thirty-eight fifty-one to dock door four please", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "ASK_AGAIN"}
+{"id": "test-0044", "text": "take thirty-eight fifteen, no wait, two two six nine to door eight", "source": "generated", "kind": "correction", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0045", "text": "right, two two nine six to dock four thanks", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0046", "text": "send 6439 to door one please", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0047", "text": "okay, can you put one four three four on dock door 7 mate", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0048", "text": "okay, twenty-two ninety-six to dock one", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0049", "text": "um, can you put fifty thirty-two on door seven thanks", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0050", "text": "right, shift 7140 over to dock four", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0051", "text": "right, 1224, door 7", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0052", "text": "right, park one one four six thanks", "source": "generated", "kind": "park", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0053", "text": "send 6603 to dock three thanks", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0054", "text": "can you put three eight five one on door 3", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ACT", "laya_after": "READ_BACK"}
+{"id": "test-0055", "text": "move 8420, no, scratch that, six six zero three to door seven", "source": "generated", "kind": "correction", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0056", "text": "take 5527, I mean, 9071 to dock 7", "source": "generated", "kind": "correction", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ASK_AGAIN"}
+{"id": "test-0057", "text": "yeah, 3507 to door four thanks", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0058", "text": "move three eight one five to door eight please", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0059", "text": "can you put 4892 on dock door 7", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0060", "text": "take forty-four seventy-one, no, scratch that, twenty-two sixty-nine to dock one", "source": "generated", "kind": "correction", "decision": "READ_BACK", "laya_before": "ACT", "laya_after": "READ_BACK"}
+{"id": "test-0061", "text": "yeah, 2580 can leave now", "source": "generated", "kind": "release", "decision": "READ_BACK", "laya_before": "ACT", "laya_after": "READ_BACK"}
+{"id": "test-0062", "text": "okay, 6188 to dock door 8 when you can", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0063", "text": "okay, move two two two nine to dock door three", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0064", "text": "yeah, can you put 4471 on door one", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ACT", "laya_after": "READ_BACK"}
+{"id": "test-0065", "text": "yeah, 3364, door 4 thanks", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0066", "text": "right, bring 2296 up to dock 6", "source": "generated", "kind": "move_lookalike", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0067", "text": "um, take six six zero three to door seven please", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0068", "text": "right, 1146 to door seven mate", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0069", "text": "okay, send one nine five seven to door eight", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0070", "text": "move that trailer", "source": "generated", "kind": "unclear", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0071", "text": "yeah, take 2296 over", "source": "generated", "kind": "move_no_place", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0072", "text": "where is seven one four zero at", "source": "generated", "kind": "status", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0073", "text": "yeah, 1957, dock door four mate", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ASK_AGAIN"}
+{"id": "test-0074", "text": "yeah, has forty-eight ninety-two been moved", "source": "generated", "kind": "status", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0075", "text": "take five four eight zero to dock four", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0076", "text": "yeah, release sixty-six oh three when you can", "source": "generated", "kind": "release", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0077", "text": "move two two six nine, sorry, 4471 to dock seven", "source": "generated", "kind": "correction", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0078", "text": "yeah, thirty-three sixty-four, dock 3 thanks", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0079", "text": "send two five eight zero to dock door one mate", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "READ_BACK", "laya_after": "ACT"}
+{"id": "test-0080", "text": "take 3851, no, scratch that, two two six nine to dock door 7", "source": "generated", "kind": "correction", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0081", "text": "okay, six two six nine, dock four", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0082", "text": "four eight nine two can leave now please", "source": "generated", "kind": "release", "decision": "READ_BACK", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0083", "text": "uh, take 5450 to door 3 when you can", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0084", "text": "move sixty-one eighty-eight to dock door 7", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0085", "text": "where's one nine five seven", "source": "generated", "kind": "status", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0086", "text": "take 3815, no, scratch that, 2269 to door six", "source": "generated", "kind": "correction", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0087", "text": "yeah, six five nine zero, dock door 1 when you can", "source": "generated", "kind": "move_unknown", "decision": "ASK_AGAIN", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0088", "text": "okay, can you put sixty-six oh three on door four please", "source": "generated", "kind": "move_ok", "decision": "ACT", "laya_before": "ACT", "laya_after": "ASK_AGAIN"}
+{"id": "test-0089", "text": "yeah, where's 9071 mate", "source": "generated", "kind": "status", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0090", "text": "uh take forty four seventy one, no, forty four seventeen to door three", "source": "handwritten", "kind": "handwritten", "decision": "READ_BACK", "laya_before": "ACT", "laya_after": "READ_BACK"}
+{"id": "test-0091", "text": "4471 to door 6 and then, actually, leave it", "source": "handwritten", "kind": "handwritten", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "READ_BACK"}
+{"id": "test-0092", "text": "move seven one oh four over to dock eight", "source": "handwritten", "kind": "handwritten", "decision": "READ_BACK", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0093", "text": "can you get 5032 off door 4 and into staging", "source": "handwritten", "kind": "handwritten", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0094", "text": "two two six nine, door one, cheers", "source": "handwritten", "kind": "handwritten", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0095", "text": "where's that six one eight eight gone", "source": "handwritten", "kind": "handwritten", "decision": "ACT", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0096", "text": "send the 1146 to door nine", "source": "handwritten", "kind": "handwritten", "decision": "ASK_AGAIN", "laya_before": "ASK_AGAIN", "laya_after": "ACT"}
+{"id": "test-0097", "text": "park thirty three sixty four up the back", "source": "handwritten", "kind": "handwritten", "decision": "ACT", "laya_before": "ACT", "laya_after": "ACT"}
+{"id": "test-0098", "text": "let the eight four two oh out", "source": "handwritten", "kind": "handwritten", "decision": "READ_BACK", "laya_before": "ASK_AGAIN", "laya_after": "ASK_AGAIN"}
+{"id": "test-0099", "text": "door seven for fifty five twenty seven", "source": "handwritten", "kind": "handwritten", "decision": "ACT", "laya_before": "READ_BACK", "laya_after": "ACT"}

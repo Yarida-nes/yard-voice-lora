@@ -1,0 +1,22 @@
+{
+  "model": "typesafe/jev-1.14-20261014",
+  "cost_usd": 0.000721,
+  "fields_route": {
+    "exact": 8,
+    "fields": {
+      "action": 15,
+      "unit": 16,
+      "to": 14
+    },
+    "right": 13,
+    "unsafe": 0,
+    "handwritten": 6
+  },
+  "decision_only": {
+    "right": 10,
+    "unsafe": 3,
+    "handwritten": 3
+  },
+  "median_s": 0.6367,
+  "max_s": 1.0472
+}

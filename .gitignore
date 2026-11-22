@@ -1,5 +1,17 @@
 models/
 *.gguf
 audio/
-results/
 __pycache__/
+audio_train/
+my_recordings/
+# results: share the data and scores, not working notes or Word reports
+results/REPORT.md
+results/*.docx
+results/_*
+results/*jev-x-*
+results/model_comparison.xlsx
+results/model_comparison_with_laya.xlsx
+results/model_comparison_laya_fields.xlsx
+results/before_vs_after.xlsx
+results/~$*
+CLAUDE.md
