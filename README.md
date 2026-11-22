@@ -4,6 +4,8 @@ I built a practice version of a voice-command system for truck yards. A worker s
 
 All data here is synthetic. This is a practice version I built to learn the pipeline. It is not any company's real system or data.
 
+![How my yard voice-command system works](results/workflow_diagram.png)
+
 ## What I found
 
 **1. LoRA fine-tuning made the local model nearly as good as a big cloud model** (100 test sentences, typed text):
