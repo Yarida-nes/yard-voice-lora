@@ -1,0 +1,420 @@
+{"id": "train-0000", "text": "take 5032, no wait, 6188 to door eight", "audio": "train-0000_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0000", "text": "take 5032, no wait, 6188 to door eight", "audio": "train-0000_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 11 dB"}
+{"id": "train-0001", "text": "um, send thirty-eight fifteen to door 7 mate", "audio": "train-0001_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0001", "text": "um, send thirty-eight fifteen to door 7 mate", "audio": "train-0001_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 3 dB"}
+{"id": "train-0002", "text": "okay, bring sixty-one eighty-eight up to dock door 8", "audio": "train-0002_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0002", "text": "okay, bring sixty-one eighty-eight up to dock door 8", "audio": "train-0002_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 5 dB"}
+{"id": "train-0003", "text": "right, move 3364 to door 3 mate", "audio": "train-0003_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0003", "text": "right, move 3364 to door 3 mate", "audio": "train-0003_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 3 dB"}
+{"id": "train-0004", "text": "move 6188, sorry, nineteen fifty-seven to door 4", "audio": "train-0004_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0004", "text": "move 6188, sorry, nineteen fifty-seven to door 4", "audio": "train-0004_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 11 dB"}
+{"id": "train-0005", "text": "uh, move 2269 to dock four thanks", "audio": "train-0005_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0005", "text": "uh, move 2269 to dock four thanks", "audio": "train-0005_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 4 dB"}
+{"id": "train-0006", "text": "move 8420", "audio": "train-0006_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0006", "text": "move 8420", "audio": "train-0006_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 3 dB"}
+{"id": "train-0007", "text": "um, can you put two five eight zero on dock four", "audio": "train-0007_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0007", "text": "um, can you put two five eight zero on dock four", "audio": "train-0007_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 3 dB"}
+{"id": "train-0008", "text": "move 4892 mate", "audio": "train-0008_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0008", "text": "move 4892 mate", "audio": "train-0008_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 4 dB"}
+{"id": "train-0009", "text": "take seven one four zero, no, scratch that, four four seven one to dock seven", "audio": "train-0009_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0009", "text": "take seven one four zero, no, scratch that, four four seven one to dock seven", "audio": "train-0009_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 4 dB"}
+{"id": "train-0010", "text": "yeah, 6603 needs moving thanks", "audio": "train-0010_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0010", "text": "yeah, 6603 needs moving thanks", "audio": "train-0010_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 15 dB"}
+{"id": "train-0011", "text": "okay, 1146 to dock door two", "audio": "train-0011_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0011", "text": "okay, 1146 to dock door two", "audio": "train-0011_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 11 dB"}
+{"id": "train-0012", "text": "yeah, send thirty-three sixty-four to dock five when you can", "audio": "train-0012_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0012", "text": "yeah, send thirty-three sixty-four to dock five when you can", "audio": "train-0012_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 4 dB"}
+{"id": "train-0013", "text": "okay, send five five two seven to dock 3 when you can", "audio": "train-0013_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0013", "text": "okay, send five five two seven to dock 3 when you can", "audio": "train-0013_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 9 dB"}
+{"id": "train-0014", "text": "yeah, bring 7171 up to dock door 8", "audio": "train-0014_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0014", "text": "yeah, bring 7171 up to dock door 8", "audio": "train-0014_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 9 dB"}
+{"id": "train-0015", "text": "okay, bring 5032 up to dock door 7 when you can", "audio": "train-0015_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0015", "text": "okay, bring 5032 up to dock door 7 when you can", "audio": "train-0015_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 9 dB"}
+{"id": "train-0016", "text": "hang on, wait", "audio": "train-0016_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0016", "text": "hang on, wait", "audio": "train-0016_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 15 dB"}
+{"id": "train-0017", "text": "okay, 7140 needs moving mate", "audio": "train-0017_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0017", "text": "okay, 7140 needs moving mate", "audio": "train-0017_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 8 dB"}
+{"id": "train-0018", "text": "yeah, send 3364 to staging lane when you can", "audio": "train-0018_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0018", "text": "yeah, send 3364 to staging lane when you can", "audio": "train-0018_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 6 dB"}
+{"id": "train-0019", "text": "uh, send 4899 to dock door 4 mate", "audio": "train-0019_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0019", "text": "uh, send 4899 to dock door 4 mate", "audio": "train-0019_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 7 dB"}
+{"id": "train-0020", "text": "take 3851, no, scratch that, 4471 to door 1", "audio": "train-0020_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0020", "text": "take 3851, no, scratch that, 4471 to door 1", "audio": "train-0020_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 8 dB"}
+{"id": "train-0021", "text": "uh, take one nine five seven to door four", "audio": "train-0021_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0021", "text": "uh, take one nine five seven to door four", "audio": "train-0021_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 15 dB"}
+{"id": "train-0022", "text": "okay, can you put three three six four on dock six thanks", "audio": "train-0022_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0022", "text": "okay, can you put three three six four on dock six thanks", "audio": "train-0022_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 10 dB"}
+{"id": "train-0023", "text": "yeah, can you put 1957 on dock four", "audio": "train-0023_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0023", "text": "yeah, can you put 1957 on dock four", "audio": "train-0023_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 14 dB"}
+{"id": "train-0024", "text": "has eight four two zero been moved", "audio": "train-0024_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0024", "text": "has eight four two zero been moved", "audio": "train-0024_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 8 dB"}
+{"id": "train-0025", "text": "one one four six needs moving please", "audio": "train-0025_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0025", "text": "one one four six needs moving please", "audio": "train-0025_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 14 dB"}
+{"id": "train-0026", "text": "send 2580 to dock 3 mate", "audio": "train-0026_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0026", "text": "send 2580 to dock 3 mate", "audio": "train-0026_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 11 dB"}
+{"id": "train-0027", "text": "where is 8420 at mate", "audio": "train-0027_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0027", "text": "where is 8420 at mate", "audio": "train-0027_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 6 dB"}
+{"id": "train-0028", "text": "um, 6188 to dock four mate", "audio": "train-0028_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0028", "text": "um, 6188 to dock four mate", "audio": "train-0028_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 4 dB"}
+{"id": "train-0029", "text": "take 1957, sorry, two five eight zero to dock one", "audio": "train-0029_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0029", "text": "take 1957, sorry, two five eight zero to dock one", "audio": "train-0029_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 9 dB"}
+{"id": "train-0030", "text": "uh, 6188, door 7", "audio": "train-0030_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0030", "text": "uh, 6188, door 7", "audio": "train-0030_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 9 dB"}
+{"id": "train-0031", "text": "door, uh, sorry say again", "audio": "train-0031_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0031", "text": "door, uh, sorry say again", "audio": "train-0031_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 11 dB"}
+{"id": "train-0032", "text": "right, twenty-two ninety-six, door one", "audio": "train-0032_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0032", "text": "right, twenty-two ninety-six, door one", "audio": "train-0032_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 7 dB"}
+{"id": "train-0033", "text": "um, forty-four seventy-one to dock door 4 thanks", "audio": "train-0033_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0033", "text": "um, forty-four seventy-one to dock door 4 thanks", "audio": "train-0033_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 8 dB"}
+{"id": "train-0034", "text": "okay, bring 7759 up to dock 5", "audio": "train-0034_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0034", "text": "okay, bring 7759 up to dock 5", "audio": "train-0034_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 7 dB"}
+{"id": "train-0035", "text": "bring 2580 up to dock 1 please", "audio": "train-0035_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0035", "text": "bring 2580 up to dock 1 please", "audio": "train-0035_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 8 dB"}
+{"id": "train-0036", "text": "okay, twenty-two ninety-six needs moving when you can", "audio": "train-0036_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0036", "text": "okay, twenty-two ninety-six needs moving when you can", "audio": "train-0036_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 14 dB"}
+{"id": "train-0037", "text": "right, take forty-four seventeen to door 1", "audio": "train-0037_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0037", "text": "right, take forty-four seventeen to door 1", "audio": "train-0037_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 11 dB"}
+{"id": "train-0038", "text": "take 1957, no wait, three three six four to dock door eight", "audio": "train-0038_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0038", "text": "take 1957, no wait, three three six four to dock door eight", "audio": "train-0038_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 9 dB"}
+{"id": "train-0039", "text": "um, bring 2296 up to door 6 thanks", "audio": "train-0039_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0039", "text": "um, bring 2296 up to door 6 thanks", "audio": "train-0039_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 13 dB"}
+{"id": "train-0040", "text": "yeah, take 6603 to dock eight", "audio": "train-0040_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0040", "text": "yeah, take 6603 to dock eight", "audio": "train-0040_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 11 dB"}
+{"id": "train-0041", "text": "right, seven seven five nine to dock 6", "audio": "train-0041_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0041", "text": "right, seven seven five nine to dock 6", "audio": "train-0041_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 9 dB"}
+{"id": "train-0042", "text": "uh, where's 4892", "audio": "train-0042_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0042", "text": "uh, where's 4892", "audio": "train-0042_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 10 dB"}
+{"id": "train-0043", "text": "um, move 2269", "audio": "train-0043_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0043", "text": "um, move 2269", "audio": "train-0043_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 4 dB"}
+{"id": "train-0044", "text": "um, move fifty thirty-two to the staging lane thanks", "audio": "train-0044_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0044", "text": "um, move fifty thirty-two to the staging lane thanks", "audio": "train-0044_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 13 dB"}
+{"id": "train-0045", "text": "uh, let 8420 out mate", "audio": "train-0045_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0045", "text": "uh, let 8420 out mate", "audio": "train-0045_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 14 dB"}
+{"id": "train-0046", "text": "seventy-one oh four can leave now", "audio": "train-0046_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0046", "text": "seventy-one oh four can leave now", "audio": "train-0046_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 8 dB"}
+{"id": "train-0047", "text": "move 9000 to door 3 please", "audio": "train-0047_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0047", "text": "move 9000 to door 3 please", "audio": "train-0047_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 7 dB"}
+{"id": "train-0048", "text": "yeah, seventy-seven fifty-nine, door two mate", "audio": "train-0048_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0048", "text": "yeah, seventy-seven fifty-nine, door two mate", "audio": "train-0048_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 4 dB"}
+{"id": "train-0049", "text": "um, 6188 to door eight", "audio": "train-0049_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0049", "text": "um, 6188 to door eight", "audio": "train-0049_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 12 dB"}
+{"id": "train-0050", "text": "seven seven five nine to door four", "audio": "train-0050_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0050", "text": "seven seven five nine to door four", "audio": "train-0050_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 7 dB"}
+{"id": "train-0051", "text": "right, sixty-one eighty-eight, dock 5 please", "audio": "train-0051_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0051", "text": "right, sixty-one eighty-eight, dock 5 please", "audio": "train-0051_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 6 dB"}
+{"id": "train-0052", "text": "take forty-four seventeen to dock six when you can", "audio": "train-0052_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0052", "text": "take forty-four seventeen to dock six when you can", "audio": "train-0052_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 4 dB"}
+{"id": "train-0053", "text": "move one one four six to door one", "audio": "train-0053_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0053", "text": "move one one four six to door one", "audio": "train-0053_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 11 dB"}
+{"id": "train-0054", "text": "drop 9071 in parking mate", "audio": "train-0054_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0054", "text": "drop 9071 in parking mate", "audio": "train-0054_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 14 dB"}
+{"id": "train-0055", "text": "move twenty-two sixty-nine to dock 4 thanks", "audio": "train-0055_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0055", "text": "move twenty-two sixty-nine to dock 4 thanks", "audio": "train-0055_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 5 dB"}
+{"id": "train-0056", "text": "um, what's the status of eighty-four twenty", "audio": "train-0056_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0056", "text": "um, what's the status of eighty-four twenty", "audio": "train-0056_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 7 dB"}
+{"id": "train-0057", "text": "put 5032 in parking when you can", "audio": "train-0057_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0057", "text": "put 5032 in parking when you can", "audio": "train-0057_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 13 dB"}
+{"id": "train-0058", "text": "bring forty-four seventeen up to dock six when you can", "audio": "train-0058_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0058", "text": "bring forty-four seventeen up to dock six when you can", "audio": "train-0058_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 13 dB"}
+{"id": "train-0059", "text": "uh, send 8420 to dock door three thanks", "audio": "train-0059_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0059", "text": "uh, send 8420 to dock door three thanks", "audio": "train-0059_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 5 dB"}
+{"id": "train-0060", "text": "park up sixty-six oh three", "audio": "train-0060_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0060", "text": "park up sixty-six oh three", "audio": "train-0060_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 3 dB"}
+{"id": "train-0061", "text": "bring nineteen fifty-seven up to door 4", "audio": "train-0061_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0061", "text": "bring nineteen fifty-seven up to door 4", "audio": "train-0061_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 12 dB"}
+{"id": "train-0062", "text": "okay, 7104, door seven", "audio": "train-0062_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0062", "text": "okay, 7104, door seven", "audio": "train-0062_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 9 dB"}
+{"id": "train-0063", "text": "drop 9071 in parking", "audio": "train-0063_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0063", "text": "drop 9071 in parking", "audio": "train-0063_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 7 dB"}
+{"id": "train-0064", "text": "yeah, 6188 to dock door 8", "audio": "train-0064_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0064", "text": "yeah, 6188 to dock door 8", "audio": "train-0064_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 5 dB"}
+{"id": "train-0065", "text": "okay, can you put seven seven five nine on door two please", "audio": "train-0065_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0065", "text": "okay, can you put seven seven five nine on door two please", "audio": "train-0065_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 12 dB"}
+{"id": "train-0066", "text": "okay, where's five five two seven when you can", "audio": "train-0066_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0066", "text": "okay, where's five five two seven when you can", "audio": "train-0066_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 5 dB"}
+{"id": "train-0067", "text": "right, take 3815 to door 8 please", "audio": "train-0067_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0067", "text": "right, take 3815 to door 8 please", "audio": "train-0067_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 13 dB"}
+{"id": "train-0068", "text": "release fifty-five twenty-seven at the gate", "audio": "train-0068_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0068", "text": "release fifty-five twenty-seven at the gate", "audio": "train-0068_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 9 dB"}
+{"id": "train-0069", "text": "forty-four seventeen, dock door seven please", "audio": "train-0069_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0069", "text": "forty-four seventeen, dock door seven please", "audio": "train-0069_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 14 dB"}
+{"id": "train-0070", "text": "7759 needs moving", "audio": "train-0070_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0070", "text": "7759 needs moving", "audio": "train-0070_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 15 dB"}
+{"id": "train-0071", "text": "the one by the fence, can you", "audio": "train-0071_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0071", "text": "the one by the fence, can you", "audio": "train-0071_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 13 dB"}
+{"id": "train-0072", "text": "right, 6603 can leave now when you can", "audio": "train-0072_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0072", "text": "right, 6603 can leave now when you can", "audio": "train-0072_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 13 dB"}
+{"id": "train-0073", "text": "yeah, move two five eight zero to door six", "audio": "train-0073_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0073", "text": "yeah, move two five eight zero to door six", "audio": "train-0073_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 5 dB"}
+{"id": "train-0074", "text": "take 7759, no, scratch that, 9071 to dock one", "audio": "train-0074_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0074", "text": "take 7759, no, scratch that, 9071 to dock one", "audio": "train-0074_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 13 dB"}
+{"id": "train-0075", "text": "bring 1957 up to door five", "audio": "train-0075_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0075", "text": "bring 1957 up to door five", "audio": "train-0075_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 12 dB"}
+{"id": "train-0076", "text": "right, has fifty-five twenty-seven been moved", "audio": "train-0076_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0076", "text": "right, has fifty-five twenty-seven been moved", "audio": "train-0076_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 13 dB"}
+{"id": "train-0077", "text": "right, has forty-four seventy-one been moved", "audio": "train-0077_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0077", "text": "right, has forty-four seventy-one been moved", "audio": "train-0077_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 6 dB"}
+{"id": "train-0078", "text": "uh, send 3815 to dock 6", "audio": "train-0078_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0078", "text": "uh, send 3815 to dock 6", "audio": "train-0078_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 6 dB"}
+{"id": "train-0079", "text": "uh, has 7104 been moved mate", "audio": "train-0079_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0079", "text": "uh, has 7104 been moved mate", "audio": "train-0079_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 13 dB"}
+{"id": "train-0080", "text": "okay, shift 4892 over to the staging lane mate", "audio": "train-0080_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0080", "text": "okay, shift 4892 over to the staging lane mate", "audio": "train-0080_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 8 dB"}
+{"id": "train-0081", "text": "can you shift ninety seventy-one mate", "audio": "train-0081_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0081", "text": "can you shift ninety seventy-one mate", "audio": "train-0081_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 9 dB"}
+{"id": "train-0082", "text": "um, 2580 to door 7 thanks", "audio": "train-0082_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0082", "text": "um, 2580 to door 7 thanks", "audio": "train-0082_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 12 dB"}
+{"id": "train-0083", "text": "right, shift 1006 over to dock four please", "audio": "train-0083_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0083", "text": "right, shift 1006 over to dock four please", "audio": "train-0083_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 4 dB"}
+{"id": "train-0084", "text": "take 7759 to dock eight", "audio": "train-0084_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0084", "text": "take 7759 to dock eight", "audio": "train-0084_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 5 dB"}
+{"id": "train-0085", "text": "three three six four, door eight thanks", "audio": "train-0085_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0085", "text": "three three six four, door eight thanks", "audio": "train-0085_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 7 dB"}
+{"id": "train-0086", "text": "take two two six nine, no wait, 3815 to door seven", "audio": "train-0086_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0086", "text": "take two two six nine, no wait, 3815 to door seven", "audio": "train-0086_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 7 dB"}
+{"id": "train-0087", "text": "right, can you put one nine five seven on dock six when you can", "audio": "train-0087_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0087", "text": "right, can you put one nine five seven on dock six when you can", "audio": "train-0087_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 11 dB"}
+{"id": "train-0088", "text": "uh, 7759 needs moving", "audio": "train-0088_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0088", "text": "uh, 7759 needs moving", "audio": "train-0088_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 13 dB"}
+{"id": "train-0089", "text": "bring seven one zero four up to door 3", "audio": "train-0089_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0089", "text": "bring seven one zero four up to door 3", "audio": "train-0089_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 3 dB"}
+{"id": "train-0090", "text": "uh, take 3364 to dock one when you can", "audio": "train-0090_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0090", "text": "uh, take 3364 to dock one when you can", "audio": "train-0090_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 11 dB"}
+{"id": "train-0091", "text": "yeah, 8420 needs moving mate", "audio": "train-0091_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0091", "text": "yeah, 8420 needs moving mate", "audio": "train-0091_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 15 dB"}
+{"id": "train-0092", "text": "uh, move ninety seventy-one to staging when you can", "audio": "train-0092_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0092", "text": "uh, move ninety seventy-one to staging when you can", "audio": "train-0092_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 14 dB"}
+{"id": "train-0093", "text": "uh, bring five five two seven up to dock door one", "audio": "train-0093_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0093", "text": "uh, bring five five two seven up to dock door one", "audio": "train-0093_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 12 dB"}
+{"id": "train-0094", "text": "right, send twenty-five eighty to door eight", "audio": "train-0094_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0094", "text": "right, send twenty-five eighty to door eight", "audio": "train-0094_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 15 dB"}
+{"id": "train-0095", "text": "right, shift 1146 over to door six please", "audio": "train-0095_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0095", "text": "right, shift 1146 over to door six please", "audio": "train-0095_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 5 dB"}
+{"id": "train-0096", "text": "six six zero three can leave now thanks", "audio": "train-0096_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0096", "text": "six six zero three can leave now thanks", "audio": "train-0096_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 4 dB"}
+{"id": "train-0097", "text": "shift three eight five one over to door six mate", "audio": "train-0097_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0097", "text": "shift three eight five one over to door six mate", "audio": "train-0097_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 7 dB"}
+{"id": "train-0098", "text": "yeah, take 5106 to door 3 mate", "audio": "train-0098_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0098", "text": "yeah, take 5106 to door 3 mate", "audio": "train-0098_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 6 dB"}
+{"id": "train-0099", "text": "um, can you put forty-four seventeen on door 1 mate", "audio": "train-0099_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0099", "text": "um, can you put forty-four seventeen on door 1 mate", "audio": "train-0099_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 13 dB"}
+{"id": "train-0100", "text": "bring five five two seven up to dock 4", "audio": "train-0100_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0100", "text": "bring five five two seven up to dock 4", "audio": "train-0100_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 9 dB"}
+{"id": "train-0101", "text": "right, put sixty-six oh three in the parking area please", "audio": "train-0101_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0101", "text": "right, put sixty-six oh three in the parking area please", "audio": "train-0101_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 5 dB"}
+{"id": "train-0102", "text": "okay, move twenty-two sixty-nine to door 7 when you can", "audio": "train-0102_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0102", "text": "okay, move twenty-two sixty-nine to door 7 when you can", "audio": "train-0102_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 14 dB"}
+{"id": "train-0103", "text": "move 2296, sorry, seven one zero four to door six", "audio": "train-0103_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0103", "text": "move 2296, sorry, seven one zero four to door six", "audio": "train-0103_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 13 dB"}
+{"id": "train-0104", "text": "park up 1146 thanks", "audio": "train-0104_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0104", "text": "park up 1146 thanks", "audio": "train-0104_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 7 dB"}
+{"id": "train-0105", "text": "uh, where's 5527", "audio": "train-0105_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0105", "text": "uh, where's 5527", "audio": "train-0105_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 14 dB"}
+{"id": "train-0106", "text": "okay, send 2269 to door eight when you can", "audio": "train-0106_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0106", "text": "okay, send 2269 to door eight when you can", "audio": "train-0106_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 15 dB"}
+{"id": "train-0107", "text": "can you put sixty-four ninety-one on door 1", "audio": "train-0107_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0107", "text": "can you put sixty-four ninety-one on door 1", "audio": "train-0107_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 13 dB"}
+{"id": "train-0108", "text": "okay, take seven one zero four over please", "audio": "train-0108_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0108", "text": "okay, take seven one zero four over please", "audio": "train-0108_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 6 dB"}
+{"id": "train-0109", "text": "move seven one zero four, no wait, three eight one five to dock door one", "audio": "train-0109_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0109", "text": "move seven one zero four, no wait, three eight one five to dock door one", "audio": "train-0109_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 11 dB"}
+{"id": "train-0110", "text": "take four five seven eight to door three", "audio": "train-0110_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0110", "text": "take four five seven eight to door three", "audio": "train-0110_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 8 dB"}
+{"id": "train-0111", "text": "status on twenty-two ninety-six when you can", "audio": "train-0111_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0111", "text": "status on twenty-two ninety-six when you can", "audio": "train-0111_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 7 dB"}
+{"id": "train-0112", "text": "send 2580 to dock door 8 when you can", "audio": "train-0112_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0112", "text": "send 2580 to dock door 8 when you can", "audio": "train-0112_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 12 dB"}
+{"id": "train-0113", "text": "move 5527, sorry, 6188 to door 3", "audio": "train-0113_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0113", "text": "move 5527, sorry, 6188 to door 3", "audio": "train-0113_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 11 dB"}
+{"id": "train-0114", "text": "okay, can you shift nineteen fifty-seven thanks", "audio": "train-0114_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0114", "text": "okay, can you shift nineteen fifty-seven thanks", "audio": "train-0114_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 4 dB"}
+{"id": "train-0115", "text": "yeah, bring five zero three two up to dock door six please", "audio": "train-0115_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0115", "text": "yeah, bring five zero three two up to dock door six please", "audio": "train-0115_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 5 dB"}
+{"id": "train-0116", "text": "um, shift two two six nine over to door eight mate", "audio": "train-0116_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0116", "text": "um, shift two two six nine over to door eight mate", "audio": "train-0116_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 7 dB"}
+{"id": "train-0117", "text": "uh, can you put 6188 on dock 8", "audio": "train-0117_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0117", "text": "uh, can you put 6188 on dock 8", "audio": "train-0117_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 5 dB"}
+{"id": "train-0118", "text": "6188 needs moving mate", "audio": "train-0118_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0118", "text": "6188 needs moving mate", "audio": "train-0118_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 14 dB"}
+{"id": "train-0119", "text": "okay, 7759, door 3 mate", "audio": "train-0119_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0119", "text": "okay, 7759, door 3 mate", "audio": "train-0119_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 4 dB"}
+{"id": "train-0120", "text": "move four four one seven, I mean, 2296 to dock door 8", "audio": "train-0120_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0120", "text": "move four four one seven, I mean, 2296 to dock door 8", "audio": "train-0120_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 14 dB"}
+{"id": "train-0121", "text": "um, shift forty-four seventeen over to dock 8", "audio": "train-0121_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0121", "text": "um, shift forty-four seventeen over to dock 8", "audio": "train-0121_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 7 dB"}
+{"id": "train-0122", "text": "shift forty-four seventy-one over to door 4 when you can", "audio": "train-0122_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0122", "text": "shift forty-four seventy-one over to door 4 when you can", "audio": "train-0122_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 10 dB"}
+{"id": "train-0123", "text": "right, seventy-seven fifty-nine is good to go out the gate thanks", "audio": "train-0123_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0123", "text": "right, seventy-seven fifty-nine is good to go out the gate thanks", "audio": "train-0123_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 11 dB"}
+{"id": "train-0124", "text": "uh, move 4892 to door four thanks", "audio": "train-0124_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0124", "text": "uh, move 4892 to door four thanks", "audio": "train-0124_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 11 dB"}
+{"id": "train-0125", "text": "yeah, forty-nine sixty-three to door eight", "audio": "train-0125_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0125", "text": "yeah, forty-nine sixty-three to door eight", "audio": "train-0125_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 15 dB"}
+{"id": "train-0126", "text": "move the, um, the blue one", "audio": "train-0126_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0126", "text": "move the, um, the blue one", "audio": "train-0126_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 3 dB"}
+{"id": "train-0127", "text": "yeah, 6603, door 7 thanks", "audio": "train-0127_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0127", "text": "yeah, 6603, door 7 thanks", "audio": "train-0127_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 11 dB"}
+{"id": "train-0128", "text": "right, shift 5032 over to dock one when you can", "audio": "train-0128_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0128", "text": "right, shift 5032 over to dock one when you can", "audio": "train-0128_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 11 dB"}
+{"id": "train-0129", "text": "take four four one seven, no wait, three eight one five to dock door 4", "audio": "train-0129_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0129", "text": "take four four one seven, no wait, three eight one five to dock door 4", "audio": "train-0129_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 14 dB"}
+{"id": "train-0130", "text": "um, put 7759 in parking thanks", "audio": "train-0130_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0130", "text": "um, put 7759 in parking thanks", "audio": "train-0130_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 7 dB"}
+{"id": "train-0131", "text": "send 6188 to door 4", "audio": "train-0131_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0131", "text": "send 6188 to door 4", "audio": "train-0131_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 5 dB"}
+{"id": "train-0132", "text": "right, has 9071 been moved", "audio": "train-0132_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0132", "text": "right, has 9071 been moved", "audio": "train-0132_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 5 dB"}
+{"id": "train-0133", "text": "right, shift 4417 over to door four", "audio": "train-0133_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0133", "text": "right, shift 4417 over to door four", "audio": "train-0133_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 9 dB"}
+{"id": "train-0134", "text": "um, put 8420 in parking thanks", "audio": "train-0134_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0134", "text": "um, put 8420 in parking thanks", "audio": "train-0134_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 9 dB"}
+{"id": "train-0135", "text": "um, move 8798 to dock door 1 when you can", "audio": "train-0135_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0135", "text": "um, move 8798 to dock door 1 when you can", "audio": "train-0135_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 3 dB"}
+{"id": "train-0136", "text": "put two five eight zero in the park-up area thanks", "audio": "train-0136_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0136", "text": "put two five eight zero in the park-up area thanks", "audio": "train-0136_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 8 dB"}
+{"id": "train-0137", "text": "okay, can you put 3851 on dock door one", "audio": "train-0137_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0137", "text": "okay, can you put 3851 on dock door one", "audio": "train-0137_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 4 dB"}
+{"id": "train-0138", "text": "yeah, take 5527 to dock door six thanks", "audio": "train-0138_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0138", "text": "yeah, take 5527 to dock door six thanks", "audio": "train-0138_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 8 dB"}
+{"id": "train-0139", "text": "let 5032 out when you can", "audio": "train-0139_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0139", "text": "let 5032 out when you can", "audio": "train-0139_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 3 dB"}
+{"id": "train-0140", "text": "move 7140, I mean, 3815 to dock door one", "audio": "train-0140_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0140", "text": "move 7140, I mean, 3815 to dock door one", "audio": "train-0140_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 10 dB"}
+{"id": "train-0141", "text": "uh, can you put 1853 on door 4", "audio": "train-0141_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0141", "text": "uh, can you put 1853 on door 4", "audio": "train-0141_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 13 dB"}
+{"id": "train-0142", "text": "right, bring nineteen fifty-seven up to door 2 thanks", "audio": "train-0142_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0142", "text": "right, bring nineteen fifty-seven up to door 2 thanks", "audio": "train-0142_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 6 dB"}
+{"id": "train-0143", "text": "um, which one was it, door", "audio": "train-0143_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0143", "text": "um, which one was it, door", "audio": "train-0143_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 3 dB"}
+{"id": "train-0144", "text": "yeah, forty-five fifty-nine to dock 1", "audio": "train-0144_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0144", "text": "yeah, forty-five fifty-nine to dock 1", "audio": "train-0144_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 4 dB"}
+{"id": "train-0145", "text": "take 6603 to door five", "audio": "train-0145_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0145", "text": "take 6603 to door five", "audio": "train-0145_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 10 dB"}
+{"id": "train-0146", "text": "drop one one four six in parking please", "audio": "train-0146_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0146", "text": "drop one one four six in parking please", "audio": "train-0146_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 13 dB"}
+{"id": "train-0147", "text": "right, move five five two seven to door six thanks", "audio": "train-0147_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0147", "text": "right, move five five two seven to door six thanks", "audio": "train-0147_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 5 dB"}
+{"id": "train-0148", "text": "uh, take 8054 to door 3 thanks", "audio": "train-0148_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0148", "text": "uh, take 8054 to door 3 thanks", "audio": "train-0148_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 11 dB"}
+{"id": "train-0149", "text": "okay, bring 4892 up to door two please", "audio": "train-0149_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0149", "text": "okay, bring 4892 up to door two please", "audio": "train-0149_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 14 dB"}
+{"id": "train-0150", "text": "yeah, bring 5032 up to door six", "audio": "train-0150_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0150", "text": "yeah, bring 5032 up to door six", "audio": "train-0150_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 7 dB"}
+{"id": "train-0151", "text": "yeah, take forty-four seventy-one to door 4", "audio": "train-0151_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0151", "text": "yeah, take forty-four seventy-one to door 4", "audio": "train-0151_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 4 dB"}
+{"id": "train-0152", "text": "right, send 5082 to dock one thanks", "audio": "train-0152_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0152", "text": "right, send 5082 to dock one thanks", "audio": "train-0152_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 8 dB"}
+{"id": "train-0153", "text": "move eight four two zero, no wait, three three six four to door 1", "audio": "train-0153_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0153", "text": "move eight four two zero, no wait, three three six four to door 1", "audio": "train-0153_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 4 dB"}
+{"id": "train-0154", "text": "seventy-one forty, dock one", "audio": "train-0154_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0154", "text": "seventy-one forty, dock one", "audio": "train-0154_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 14 dB"}
+{"id": "train-0155", "text": "can you put three three six four on dock six please", "audio": "train-0155_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0155", "text": "can you put three three six four on dock six please", "audio": "train-0155_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 6 dB"}
+{"id": "train-0156", "text": "right, take eight four two zero to door 2", "audio": "train-0156_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0156", "text": "right, take eight four two zero to door 2", "audio": "train-0156_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 7 dB"}
+{"id": "train-0157", "text": "uh, park up 1146 mate", "audio": "train-0157_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0157", "text": "uh, park up 1146 mate", "audio": "train-0157_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 11 dB"}
+{"id": "train-0158", "text": "park up nine zero seven one mate", "audio": "train-0158_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0158", "text": "park up nine zero seven one mate", "audio": "train-0158_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 8 dB"}
+{"id": "train-0159", "text": "seventy-one forty, door eight", "audio": "train-0159_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0159", "text": "seventy-one forty, door eight", "audio": "train-0159_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 9 dB"}
+{"id": "train-0160", "text": "has 2580 been moved", "audio": "train-0160_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0160", "text": "has 2580 been moved", "audio": "train-0160_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 8 dB"}
+{"id": "train-0161", "text": "okay, sixty-six oh three needs moving thanks", "audio": "train-0161_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0161", "text": "okay, sixty-six oh three needs moving thanks", "audio": "train-0161_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 7 dB"}
+{"id": "train-0162", "text": "shift 4892 over to dock door 8 mate", "audio": "train-0162_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0162", "text": "shift 4892 over to dock door 8 mate", "audio": "train-0162_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 13 dB"}
+{"id": "train-0163", "text": "uh, bring eight nine three five up to dock four when you can", "audio": "train-0163_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0163", "text": "uh, bring eight nine three five up to dock four when you can", "audio": "train-0163_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 8 dB"}
+{"id": "train-0164", "text": "bring 6188 up to staging", "audio": "train-0164_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0164", "text": "bring 6188 up to staging", "audio": "train-0164_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 13 dB"}
+{"id": "train-0165", "text": "has eighty-four twenty been moved", "audio": "train-0165_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0165", "text": "has eighty-four twenty been moved", "audio": "train-0165_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 15 dB"}
+{"id": "train-0166", "text": "um, nineteen fifty-seven, staging", "audio": "train-0166_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0166", "text": "um, nineteen fifty-seven, staging", "audio": "train-0166_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 10 dB"}
+{"id": "train-0167", "text": "move eighty-four twenty to door two", "audio": "train-0167_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0167", "text": "move eighty-four twenty to door two", "audio": "train-0167_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 7 dB"}
+{"id": "train-0168", "text": "um, move ninety seventy-one", "audio": "train-0168_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0168", "text": "um, move ninety seventy-one", "audio": "train-0168_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 14 dB"}
+{"id": "train-0169", "text": "um, send twenty-two ninety-six to door eight", "audio": "train-0169_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0169", "text": "um, send twenty-two ninety-six to door eight", "audio": "train-0169_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 5 dB"}
+{"id": "train-0170", "text": "uh, shift two five eight zero over to door one thanks", "audio": "train-0170_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0170", "text": "uh, shift two five eight zero over to door one thanks", "audio": "train-0170_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 13 dB"}
+{"id": "train-0171", "text": "take 3851, no wait, 2269 to door seven", "audio": "train-0171_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0171", "text": "take 3851, no wait, 2269 to door seven", "audio": "train-0171_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 8 dB"}
+{"id": "train-0172", "text": "let 4417 out mate", "audio": "train-0172_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0172", "text": "let 4417 out mate", "audio": "train-0172_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 13 dB"}
+{"id": "train-0173", "text": "right, move 6603 to dock door 7", "audio": "train-0173_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0173", "text": "right, move 6603 to dock door 7", "audio": "train-0173_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 9 dB"}
+{"id": "train-0174", "text": "nineteen fifty-seven to door 8", "audio": "train-0174_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0174", "text": "nineteen fifty-seven to door 8", "audio": "train-0174_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 4 dB"}
+{"id": "train-0175", "text": "move 4417 mate", "audio": "train-0175_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0175", "text": "move 4417 mate", "audio": "train-0175_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 10 dB"}
+{"id": "train-0176", "text": "okay, send 4892 to dock six when you can", "audio": "train-0176_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0176", "text": "okay, send 4892 to dock six when you can", "audio": "train-0176_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 3 dB"}
+{"id": "train-0177", "text": "um, where is sixty-one eighty-eight at", "audio": "train-0177_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0177", "text": "um, where is sixty-one eighty-eight at", "audio": "train-0177_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 10 dB"}
+{"id": "train-0178", "text": "park up sixty-six oh three when you can", "audio": "train-0178_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0178", "text": "park up sixty-six oh three when you can", "audio": "train-0178_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 4 dB"}
+{"id": "train-0179", "text": "uh, nine zero seven one, door four", "audio": "train-0179_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0179", "text": "uh, nine zero seven one, door four", "audio": "train-0179_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 10 dB"}
+{"id": "train-0180", "text": "right, thirty-eight fifty-one needs moving", "audio": "train-0180_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0180", "text": "right, thirty-eight fifty-one needs moving", "audio": "train-0180_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 4 dB"}
+{"id": "train-0181", "text": "yeah, send five five two seven to dock five mate", "audio": "train-0181_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0181", "text": "yeah, send five five two seven to dock five mate", "audio": "train-0181_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 8 dB"}
+{"id": "train-0182", "text": "bring six one eight eight up to door 6 thanks", "audio": "train-0182_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0182", "text": "bring six one eight eight up to door 6 thanks", "audio": "train-0182_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 5 dB"}
+{"id": "train-0183", "text": "7759, staging mate", "audio": "train-0183_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0183", "text": "7759, staging mate", "audio": "train-0183_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 11 dB"}
+{"id": "train-0184", "text": "yeah, 2580 can go to parking mate", "audio": "train-0184_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0184", "text": "yeah, 2580 can go to parking mate", "audio": "train-0184_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 8 dB"}
+{"id": "train-0185", "text": "um, shift seventy-one forty over to door 6 thanks", "audio": "train-0185_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0185", "text": "um, shift seventy-one forty over to door 6 thanks", "audio": "train-0185_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 4 dB"}
+{"id": "train-0186", "text": "shift seven seven five nine over to door one", "audio": "train-0186_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0186", "text": "shift seven seven five nine over to door one", "audio": "train-0186_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 8 dB"}
+{"id": "train-0187", "text": "uh, can you shift five five two seven", "audio": "train-0187_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0187", "text": "uh, can you shift five five two seven", "audio": "train-0187_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 10 dB"}
+{"id": "train-0188", "text": "right, eight four two zero to dock door six mate", "audio": "train-0188_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0188", "text": "right, eight four two zero to dock door six mate", "audio": "train-0188_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 10 dB"}
+{"id": "train-0189", "text": "right, 3364 to door 3 please", "audio": "train-0189_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0189", "text": "right, 3364 to door 3 please", "audio": "train-0189_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 11 dB"}
+{"id": "train-0190", "text": "um, shift five one three five over to dock 4 please", "audio": "train-0190_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0190", "text": "um, shift five one three five over to dock 4 please", "audio": "train-0190_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 14 dB"}
+{"id": "train-0191", "text": "okay, 3778, dock 8", "audio": "train-0191_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0191", "text": "okay, 3778, dock 8", "audio": "train-0191_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 7 dB"}
+{"id": "train-0192", "text": "status on three three six four", "audio": "train-0192_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0192", "text": "status on three three six four", "audio": "train-0192_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 14 dB"}
+{"id": "train-0193", "text": "3851, dock door one", "audio": "train-0193_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0193", "text": "3851, dock door one", "audio": "train-0193_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 8 dB"}
+{"id": "train-0194", "text": "right, status on two five eight zero thanks", "audio": "train-0194_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0194", "text": "right, status on two five eight zero thanks", "audio": "train-0194_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 11 dB"}
+{"id": "train-0195", "text": "take 6603 to dock 7", "audio": "train-0195_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0195", "text": "take 6603 to dock 7", "audio": "train-0195_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 9 dB"}
+{"id": "train-0196", "text": "um, nineteen fifty-seven needs moving please", "audio": "train-0196_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0196", "text": "um, nineteen fifty-seven needs moving please", "audio": "train-0196_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 10 dB"}
+{"id": "train-0197", "text": "right, 1957, the staging lane when you can", "audio": "train-0197_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0197", "text": "right, 1957, the staging lane when you can", "audio": "train-0197_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 6 dB"}
+{"id": "train-0198", "text": "uh, bring eighty-four twenty up to dock door five", "audio": "train-0198_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0198", "text": "uh, bring eighty-four twenty up to dock door five", "audio": "train-0198_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 3 dB"}
+{"id": "train-0199", "text": "um, send thirty-two twenty-two to door six when you can", "audio": "train-0199_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0199", "text": "um, send thirty-two twenty-two to door six when you can", "audio": "train-0199_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 3 dB"}
+{"id": "train-0200", "text": "okay, nine zero seven one to door four when you can", "audio": "train-0200_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0200", "text": "okay, nine zero seven one to door four when you can", "audio": "train-0200_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 5 dB"}
+{"id": "train-0201", "text": "yeah, can you put seventy-one forty on door seven when you can", "audio": "train-0201_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0201", "text": "yeah, can you put seventy-one forty on door seven when you can", "audio": "train-0201_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 4 dB"}
+{"id": "train-0202", "text": "um, take one nine five seven to door 8", "audio": "train-0202_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0202", "text": "um, take one nine five seven to door 8", "audio": "train-0202_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 5 dB"}
+{"id": "train-0203", "text": "can you put seven one four zero on dock one mate", "audio": "train-0203_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0203", "text": "can you put seven one four zero on dock one mate", "audio": "train-0203_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 10 dB"}
+{"id": "train-0204", "text": "move one one four six to door four thanks", "audio": "train-0204_clean.mp3", "voice": "en-US-GuyNeural", "noise": "none"}
+{"id": "train-0204", "text": "move one one four six to door four thanks", "audio": "train-0204_noisy.wav", "voice": "en-US-GuyNeural", "noise": "engine 13 dB"}
+{"id": "train-0205", "text": "okay, release 2580", "audio": "train-0205_clean.mp3", "voice": "en-US-JennyNeural", "noise": "none"}
+{"id": "train-0205", "text": "okay, release 2580", "audio": "train-0205_noisy.wav", "voice": "en-US-JennyNeural", "noise": "engine 4 dB"}
+{"id": "train-0206", "text": "right, take five five two seven to dock two please", "audio": "train-0206_clean.mp3", "voice": "en-NZ-MitchellNeural", "noise": "none"}
+{"id": "train-0206", "text": "right, take five five two seven to dock two please", "audio": "train-0206_noisy.wav", "voice": "en-NZ-MitchellNeural", "noise": "engine 11 dB"}
+{"id": "train-0207", "text": "6603, dock door 2 please", "audio": "train-0207_clean.mp3", "voice": "en-CA-ClaraNeural", "noise": "none"}
+{"id": "train-0207", "text": "6603, dock door 2 please", "audio": "train-0207_noisy.wav", "voice": "en-CA-ClaraNeural", "noise": "engine 12 dB"}
+{"id": "train-0208", "text": "send fifty thirty-two to door four", "audio": "train-0208_clean.mp3", "voice": "en-ZA-LukeNeural", "noise": "none"}
+{"id": "train-0208", "text": "send fifty thirty-two to door four", "audio": "train-0208_noisy.wav", "voice": "en-ZA-LukeNeural", "noise": "engine 11 dB"}
+{"id": "train-0209", "text": "okay, 7759, door six mate", "audio": "train-0209_clean.mp3", "voice": "en-GB-SoniaNeural", "noise": "none"}
+{"id": "train-0209", "text": "okay, 7759, door six mate", "audio": "train-0209_noisy.wav", "voice": "en-GB-SoniaNeural", "noise": "engine 7 dB"}

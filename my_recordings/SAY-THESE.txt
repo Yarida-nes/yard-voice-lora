@@ -1,0 +1,25 @@
+SENTENCES TO RECORD
+Record each one twice: quiet (save as the id) and with noise (add _noisy).
+
+1. [test-0000]   okay, can you put eighty-four ninety-one on door 3 please
+2. [test-0001]   right, what's the status of sixty-one eighty-eight thanks
+3. [test-0002]   bring 3851 up to door 4 mate
+4. [test-0003]   um, send 2580 to dock door two when you can
+5. [test-0004]   release 1146
+6. [test-0005]   take it over there
+7. [test-0006]   um, nine zero seven one can go to parking
+8. [test-0008]   shift 3815 over to door three thanks
+9. [test-0011]   uh, 4892 to dock four
+10. [test-0012]   6188 needs moving please
+11. [test-0013]   uh, send 5527 to dock 4 please
+12. [test-0014]   take 5032, no, scratch that, fifty-five twenty-seven to door seven
+13. [test-0090]   uh take forty four seventy one, no, forty four seventeen to door three
+14. [test-0091]   4471 to door 6 and then, actually, leave it
+15. [test-0092]   move seven one oh four over to dock eight
+16. [test-0093]   can you get 5032 off door 4 and into staging
+17. [test-0094]   two two six nine, door one, cheers
+18. [test-0095]   where's that six one eight eight gone
+19. [test-0096]   send the 1146 to door nine
+20. [test-0097]   park thirty three sixty four up the back
+21. [test-0098]   let the eight four two oh out
+22. [test-0099]   door seven for fifty five twenty seven

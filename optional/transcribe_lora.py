@@ -53,7 +53,7 @@ def main():
             if not part:
                 continue
             rows = [{**c, "text": t, "original_text": c.get("original_text", c["text"])} for c, t in part]
-            prefix = "audio" if data == "audio" else data
+            prefix = "audio" if data == "audio" else data.replace("/", "_")
             (ROOT / f"data/{prefix}_{kind}_{tag}.jsonl").write_text("".join(json.dumps(r) + "\n" for r in rows), encoding="utf-8")
             unit = sum(read_unit(r["text"]) == r["expected"]["unit"] for r in rows)
             wer = jiwer.wer([norm(r["original_text"]) for r in rows], [norm(r["text"]) or "-" for r in rows])

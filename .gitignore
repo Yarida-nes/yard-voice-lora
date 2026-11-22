@@ -1,9 +1,6 @@
 models/
 *.gguf
-audio/
 __pycache__/
-audio_train/
-my_recordings/
 # results: share the data and scores, not working notes or Word reports
 results/REPORT.md
 results/*.docx
@@ -15,3 +12,4 @@ results/model_comparison_laya_fields.xlsx
 results/before_vs_after.xlsx
 results/~$*
 CLAUDE.md
+Recording.m4a

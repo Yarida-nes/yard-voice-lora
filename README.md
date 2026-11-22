@@ -29,6 +29,12 @@ The gain over the base model is not chance (McNemar p ≤ 0.001), and it held ac
 
 Whisper heard "eight" as "egg", "door" as "draw" and "dock" as "dog". LoRA Whisper was trained only on computer voices, so it did not learn my accent. But the rules still stopped every wrong command, so the system got slower, not more dangerous.
 
+## Audio data
+
+- `my_recordings/`: my own voice, used only for testing. `full100/` has all 100 test sentences (quiet); the `test-XXXX_noisy.wav` files are 22 of them recorded again with real background noise.
+- `audio_train/`: synthetic (AI) voices for the 210 training sentences, clean and with engine noise, used to train Whisper with LoRA. Six voices that are not used in the test.
+- `audio/`: synthetic voices for the 100 test sentences, clean and with engine noise, in four other voices.
+
 ## Limits
 
 - Synthetic data: 90 of the 100 test sentences come from the same templates as the training data. On the 10 hand-written ones, fine-tuning did not beat the base model (7–8 vs 8).
