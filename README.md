@@ -50,6 +50,8 @@ Whisper heard "eight" as "egg", "door" as "draw" and "dock" as "dog". LoRA Whisp
 ## How to run it
 
 - `notebooks/train_lora_colab.ipynb`: LoRA fine-tune of Qwen3-8B on a free Colab T4, export to GGUF for Ollama.
+- `notebooks/train_laya_colab.ipynb`: train and test Laya (decides alone, and reads while the rules decide), including on my own voice.
+- `notebooks/train_whisper_lora_colab.ipynb`: LoRA fine-tune of Whisper small.en on synthetic training speech, then base vs LoRA Whisper on synthetic test voices and my own voice.
 - `optional/run_model.py`, `optional/score.py`, `optional/compare.py`: test a model in Ollama, score it, McNemar test.
 - `optional/run_claude.py`, `optional/run_laya_fields.py`, `optional/run_jev.py`: the cloud and decision-model tests.
 - `optional/make_audio.py`, `optional/add_noise.py`, `optional/transcribe.py`: the voice test. `optional/make_train_audio.py`, `optional/train_whisper_lora.py`, `optional/transcribe_lora.py`: Whisper LoRA.
